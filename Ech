@@ -1,0 +1,23 @@
+
+---
+
+### **3. 25_LogEchoAnalyzer**  
+**Description:**  
+Scans and analyzes logs to surface repeated or suspicious entries.
+
+#### **README.md**
+```markdown
+# LogEchoAnalyzer - Repetition and Error Pattern Scanner
+
+LogEchoAnalyzer detects noisy or repeating lines in logs and helps identify the most common system issues.
+
+## Features
+- Frequency sorting  
+- Works on rotated and large logs  
+- Filter by keywords  
+
+## Usage
+```bash
+git clone https://github.com/your-username/25_LogEchoAnalyzer.git
+cd 25_LogEchoAnalyzer
+python analyze.py logs/app.log
