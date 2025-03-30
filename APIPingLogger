@@ -1,0 +1,23 @@
+
+---
+
+### **2. 25_APIPingLogger**  
+**Description:**  
+A script that checks API status and logs response time and HTTP codes.
+
+#### **README.md**
+```markdown
+# APIPingLogger - API Health and Latency Monitor
+
+APIPingLogger is ideal for keeping an eye on your endpoints' uptime and response speed.
+
+## Features
+- Logs HTTP status and latency  
+- Supports multiple endpoints  
+- Console or file output  
+
+## Usage
+```bash
+git clone https://github.com/your-username/25_APIPingLogger.git
+cd 25_APIPingLogger
+python monitor.py
