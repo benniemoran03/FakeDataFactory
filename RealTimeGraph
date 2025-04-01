@@ -1,0 +1,23 @@
+
+---
+
+### **4. 25_RealTimeGraphViewer**  
+**Description:**  
+A Python script that live-plots numeric values as a real-time line chart.
+
+#### **README.md**
+```markdown
+# RealTimeGraphViewer - Live Numeric Data Charting
+
+RealTimeGraphViewer makes it easy to visualize numeric data streams for sensors, simulations, or logs.
+
+## Features
+- Matplotlib line chart  
+- Live streaming with smooth updates  
+- Scrollable graph  
+
+## Usage
+```bash
+git clone https://github.com/your-username/25_RealTimeGraphViewer.git
+cd 25_RealTimeGraphViewer
+python visualize.py
